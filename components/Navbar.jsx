@@ -40,9 +40,9 @@ const Navbar = () => (
           color="red.400"
         />
         <MenuList>
-          <Link href="/api/auth/login" passHref>
+          <a href="/api/auth/login">
             <MenuItem icon={<MdOutlineLogin />}>Login/Signup</MenuItem>
-          </Link>
+          </a>
           <Link href="/" passHref>
             <MenuItem icon={<FcHome />}>Home</MenuItem>
           </Link>
@@ -63,9 +63,9 @@ const Navbar = () => (
               Investment Dashboard - Real Trado Recommend
             </MenuItem>
           </Link>
-          <Link href="/api/auth/logout" passHref>
+          <a href="/api/auth/logout">
             <MenuItem icon={<MdOutlineLogout />}>Logout</MenuItem>
-          </Link>
+          </a>
         </MenuList>
       </Menu>
     </Box>
