@@ -2,7 +2,7 @@
 
 Real Trado DApp - Real Estate Trading DApp based on AI & Blockchain 
 
-<img src="https://img.shields.io/badge/Contributors-6-violet">
+<img src="https://img.shields.io/badge/Contributors-3-violet">
 
 <ul>
 <li><a href="https://github.com/DarinJoshua-dev">Darin Joshua D</a>
