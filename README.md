@@ -1,6 +1,6 @@
 # Real-Trado
 
-Real Trado DApp - Real Estate Trading DApp based on AI & Blockchain. It is based on a decentralized blockchain network and has various AI Features.
+Real Trado DApp - Real Estate Trading DApp based on AI and Blockchain. It is based on a decentralized blockchain network and has various AI Features.
 
 <img src="https://img.shields.io/badge/Contributors-3-violet">
 
