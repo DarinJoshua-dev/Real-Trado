@@ -4,6 +4,8 @@ Real Trado DApp - A Decentralized Application for Real Estate Trading based on A
 
 Artificial intelligence (AI) and blockchain have become two of the most trending and disruptive technologies, especially with the rise of Web 3.0, which makes the Internet safer and more reliable than ever before than the predecessor technologies. 
 
+The combination of AI and blockchain technology allows distributed artificial intelligence to access the shared data store, transactions and logs in a decentralized, secure and trusted way, with decentralized algorithms. However, they are given a common goal. 
+
 
 <img src="https://img.shields.io/badge/Contributors-3-violet">
 
