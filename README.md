@@ -6,6 +6,7 @@ Artificial intelligence (AI) and blockchain have become two of the most trending
 
 The combination of AI and blockchain technology allows distributed artificial intelligence to access the shared data store, transactions and logs in a decentralized, secure and trusted way, with decentralized algorithms. However, they are given a common goal. 
 
+A Decentralized Application (DApp) is a digital application or program that is stored and runs on your computer's blockchain or peer-to-peer (P2P) network, and not on a single computer.
 
 <img src="https://img.shields.io/badge/Contributors-3-violet">
 
