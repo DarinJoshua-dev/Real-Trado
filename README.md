@@ -8,6 +8,8 @@ Real Trado DApp - A Decentralized Application for Real Estate Trading based on A
 
 -> A Decentralized Application (DApp) is a digital application or program that is stored and runs on your computer's blockchain or peer-to-peer (P2P) network, and not on a single computer.
 
+-> A modular system design approach is taken to create and test the DApp.
+
 <img src="https://img.shields.io/badge/Contributors-3-violet">
 
 <ul>
