@@ -1,0 +1,66 @@
+# The Project Source Code folder contains three subfolders:- 
+
+"Real Trado" which is the main source folder of the project with all the modules integrated, "Blockchain-Network-Pay" is Module 1 and "AI-Recommend-System" is Module 2.
+
+
+## The steps to execute the project are listed below:-
+
+
+# Real Trado (Main Source) folder execution is as follows-
+
+Note: This folder contains the integration of all the modules of the project including Blockchain-Network-Pay and AI-Recommend-System
+
+Step 1: Open the folder in a Code editor, ex: VS Code.
+
+Step 2: Make sure to install nodejs, react and nextjs packages. 
+
+Step 3: Check if all the node modules and dependencies are available.
+
+Step 4: Run command npm i && npm run dev on CLI.
+
+Step 5: Now the application is ready and can be opened on the http://localhost:3000
+
+Step 6: The home page appears on the screen, the various functionalities like login/signup authentication, searching/sorting, buying/renting/selling properties can be done.
+
+Step 7: The various features of the DApp includes AI features like chatbot, price and recommendation engine (Real Trado Recommend).
+
+Step 8: The application runs on a private blockchain network, we have to install and open ganache (blockchain network).
+
+Step 9: We have to create or have a MetaMask account to proceed with transactions to buy/rent the properties.
+
+Step 10: Every transaction is recorded in the ledger and displayed in the blockchain network and payment page.
+
+
+## The steps to execute the project modules separately are listed below:-
+
+
+# Blockchain-Network-Pay (Module 1) folder execution is as follows-
+
+Step 1: Open the folder in a Code editor, ex: VS Code.
+
+Step 2: Make sure to install nodejs and check if all the node modules and dependencies are available.
+
+Step 3: The application runs on a private blockchain network, we have to install and open ganache (blockchain network).
+
+Step 4: We have to create or have a MetaMask account with proceed sending transactions in the payment page.
+
+Step 5: Import account in MetaMask and give the private key from ganache. Afterwards in that enter network name: wallet-check, new rpc: HTTP://127.0.0.1:7545, chain id: 1337.
+
+Step 6: In app.js change daiaddress to address on daitokenmock.json and in intial_migration.js change wallet address to ypur metamask(ganache) wallet address. 
+
+Step 7: Run commands "npx truffle compile" then "npx truffle migrate" then "npm run start". This will start the page in browser automatically.
+
+Step 8: Every transaction is recorded in the ledger and displayed in the blockchain network and payment page, this module can be integrated with Real Trado.
+
+# AI-Recommend-System (Module 2) folder execution is as follows-
+
+Step 1: Open the folder in a Code editor, ex: VS Code.
+
+Step 2: Make sure to install python, streamlit, pandas, etc and check if all the packages, modules and dependencies are available.
+
+Step 3: Run the command streamlit run 'name' in the CLI
+
+Step 4: Open the browser and access the AI features of the dashboard to research and analyze the different real estate properties, this module can be integrated with Real Trado.
+
+
+Project Source Code Deployment: https://real-trado-dapp.vercel.app/ (or) https://real-trado.vercel.app/
